@@ -1,0 +1,21 @@
+.app-container {
+  padding: 40px;
+}
+
+.navbar-custom .nav-item {
+  padding-left: 0.6rem !important;
+  padding-right: 0.6rem !important;
+}
+
+.control-error {
+  border: 2px solid red !important;
+}
+
+.error-message {
+  color: #ff0000 !important;
+  font-weight: 600;
+}
+
+.modal-content {
+  font-size: 1.2rem !important;
+}
